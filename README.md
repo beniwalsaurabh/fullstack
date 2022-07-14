@@ -1,1 +1,1 @@
- https://beniwalsaurabh.github.io/cv/
+https://beniwalsaurabh.github.io/fullstack/
